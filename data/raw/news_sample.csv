@@ -1,0 +1,9 @@
+date,source,headline,sentiment
+2026-06-10,BBC,"Markets rally on crypto surge",0.72
+2026-06-10,Reuters,"Tech stocks dip amid regulation fears",-0.35
+2026-06-11,CNN,"Global inflation concerns rise",0.10
+2026-06-11,NYTimes,"AI adoption accelerates in finance",0.65
+2026-06-12,Guardian,"Oil prices stabilize after OPEC talks",0.25
+2026-06-12,AlJazeera,"Political unrest impacts trade",-0.50
+2026-06-13,Bloomberg,"Bitcoin hits new monthly high",0.80
+2026-06-13,Forbes,"Startups raise record funding in Q2",0.55
