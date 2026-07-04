@@ -53,7 +53,7 @@ News_Aggregation_Pipeline/
 
 ---
 
-## ⚙️ Setup
+##  Setup
 Install dependencies:
 ```bash
 pip install -r requirements.txt
@@ -61,7 +61,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Run
+##  Run
 Execute the pipeline:
 ```bash
 python -m src.main
@@ -74,7 +74,7 @@ jupyter notebook notebooks/exploration.ipynb
 
 ---
 
-## 🧪 Testing
+##  Testing
 Run unit tests:
 ```bash
 pytest tests/
@@ -82,7 +82,7 @@ pytest tests/
 
 ---
 
-## 📊 Example Outputs
+##  Example Outputs
 - **Analysis Results**
   ```text
   {'articles': 500,
@@ -97,7 +97,7 @@ pytest tests/
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 - Integrate live scraping from RSS feeds and APIs
 - Add NLP models for topic classification and summarization
 - Build dashboards with **Streamlit** or **Dash**
@@ -105,7 +105,7 @@ pytest tests/
 
 ---
 
-## 📜 License
+##  License
 This project is licensed under the MIT License — see the `LICENSE` file for details.
 ```
 
