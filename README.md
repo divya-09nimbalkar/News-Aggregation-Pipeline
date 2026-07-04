@@ -3,7 +3,7 @@
 #  News Aggregation Pipeline
 
 A data engineering project for aggregating, cleaning, and analyzing news articles.  
-Built with **Python**, designed for modularity, reproducibility, and extensibility.
+Built with Python, designed for modularity, reproducibility, and extensibility.
 
 ##  Overview
 This project collects news data from multiple sources, processes it into structured datasets, and provides tools for analysis and visualization.  
