@@ -1,30 +1,24 @@
 
----
-
 ```markdown
-# 📰 News Aggregation Pipeline
+#  News Aggregation Pipeline
 
 A data engineering project for aggregating, cleaning, and analyzing news articles.  
 Built with **Python**, designed for modularity, reproducibility, and extensibility.
 
----
-
-## 📖 Overview
+##  Overview
 This project collects news data from multiple sources, processes it into structured datasets, and provides tools for analysis and visualization.  
 It is designed as a reusable pipeline that can be extended with NLP models for sentiment analysis, topic classification, and summarization.
 
----
 
-## 🎯 Objectives
+##  Objectives
 - Define the business problem: automate news aggregation and analysis
 - Build a modular solution with clear data flow
 - Evaluate results with analytics and visualizations
 - Enable extensibility for machine learning models
 
----
 
-## 📂 Folder Structure
-```
+##  Folder Structure
+
 News_Aggregation_Pipeline/
 │── .gitignore
 │── README.md
